@@ -1,0 +1,22 @@
+Code | Car Brand | Rent Price per day (RM) | Availability for Rent
+SDN001 | Honda City | 249 | Yes
+SDN002 | Honda Civic | 259 | Yes
+SDN003 | Honda Accord | 209 | Yes
+SDN004 | Toyota Vios | 189 | Yes
+SDN005 | Nissan Almera | 209 | Yes
+MVN006 | Nissan Serena | 419 | Yes
+SUV007 | Nissan X-trail | 409 | Yes
+SDN008 | Proton Saga | 129 | Yes
+HBK009 | Perodua Myvi | 129 | Yes
+SUV010 | Proton X50 | 339 | Yes
+SUV011 | Proton X70 | 389 | Yes
+HBK012 | Toyota Yaris | 179 | Yes
+SDN013 | Toyota Corolla | 209 | Yes
+SDN014 | Toyota Camry | 189 | Yes
+HBK015 | Mazda 3 | 389 | Yes
+SDN016 | Mazda 6 | 429 | Yes
+HBK017 | Honda Jazz | 229 | Yes
+MVN018 | Honda Odyssey | 459 | Yes
+MVN019 | Proton Alza | 199 | Yes
+HBK020 | Proton Axia | 109 | Yes
+SDN021 | BMW i5 Coupe | 549 | Yes
